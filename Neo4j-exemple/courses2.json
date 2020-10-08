@@ -1,0 +1,3674 @@
+[
+ {
+   "FIELD1": 1,
+   "Nom": "DAVIDSON DU PONT",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C42020",
+   "Old Date": "12/01/2020",
+   "RXCX": "R1C4",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 1,
+   "Nom": "DAVIDSON DU PONT",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C42019",
+   "Old Date": "29/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "10",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 17
+},
+ {
+   "FIELD1": 1,
+   "Nom": "DAVIDSON DU PONT",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C42019",
+   "Old Date": "08/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "12",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 1,
+   "Nom": "DAVIDSON DU PONT",
+   "DateRXCX": "GD PX DE BRETAGNE - LA COURSE DES BLEUSR1C42019",
+   "Old Date": "17/11/2019",
+   "RXCX": "R1C4",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GD PX DE BRETAGNE - LA COURSE DES BLEUS",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 1,
+   "Nom": "DAVIDSON DU PONT",
+   "DateRXCX": "PRIX DES CEVENNESR1C12019",
+   "Old Date": "30/10/2019",
+   "RXCX": "R1C1",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DES CEVENNES",
+   "Site": "VIN",
+   "Classement": "9",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 1,
+   "Nom": "DAVIDSON DU PONT",
+   "DateRXCX": "PRIX ISARAR4C32019",
+   "Old Date": "22/10/2019",
+   "RXCX": "R4C3",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX ISARA",
+   "Site": "VIN",
+   "Classement": "12",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 1,
+   "Nom": "DAVIDSON DU PONT",
+   "DateRXCX": "PRIX DE SELECTIONR1C72019",
+   "Old Date": "02/03/2019",
+   "RXCX": "R1C7",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE SELECTION",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2200GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 1,
+   "Nom": "DAVIDSON DU PONT",
+   "DateRXCX": "GRAND PRIX DE FRANCER1C62019",
+   "Old Date": "10/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE FRANCE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 1,
+   "Nom": "DAVIDSON DU PONT",
+   "DateRXCX": "GRAND PRIX D'AMERIQUER1C52019",
+   "Old Date": "27/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 4,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX D'AMERIQUE",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 1,
+   "Nom": "DAVIDSON DU PONT",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C52019",
+   "Old Date": "13/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "9",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 1,
+   "Nom": "DAVIDSON DU PONT",
+   "DateRXCX": "PRIX TENOR DE BAUNER1C52018",
+   "Old Date": "23/12/2018",
+   "RXCX": "R1C5",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX TENOR DE BAUNE",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 10
+},
+ {
+   "FIELD1": 1,
+   "Nom": "DAVIDSON DU PONT",
+   "DateRXCX": "GRAND PRIX DE BRETAGNER1C62018",
+   "Old Date": "18/11/2018",
+   "RXCX": "R1C6",
+   "Partant": 3,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BRETAGNE",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 1,
+   "Nom": "DAVIDSON DU PONT",
+   "DateRXCX": "PRIX MARCEL LAURENTR1C12018",
+   "Old Date": "08/11/2018",
+   "RXCX": "R1C1",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MARCEL LAURENT",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "PRIX DU FOREZR1C52020",
+   "Old Date": "11/01/2020",
+   "RXCX": "R1C5",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DU FOREZ",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 10
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "PRIX DE BAR-LE-DUCR1C32019",
+   "Old Date": "28/12/2019",
+   "RXCX": "R1C3",
+   "Partant": 15,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE BAR-LE-DUC",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "PRIX JEAN DUMOUCHR1C42019",
+   "Old Date": "15/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX JEAN DUMOUCH",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "GD PX DE BRETAGNE - LA COURSE DES BLEUSR1C42019",
+   "Old Date": "17/11/2019",
+   "RXCX": "R1C4",
+   "Partant": 6,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GD PX DE BRETAGNE - LA COURSE DES BLEUS",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "PRIX DU LANGUEDOCR1C42019",
+   "Old Date": "09/11/2019",
+   "RXCX": "R1C4",
+   "Partant": 4,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DU LANGUEDOC",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 8
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "GRAND PRIX DU PORTUGAL (PX OVIDIUS NASO)R1C32019",
+   "Old Date": "29/09/2019",
+   "RXCX": "R1C3",
+   "Partant": 13,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU PORTUGAL (PX OVIDIUS NASO)",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "PRIX ALETHEIAR1C32019",
+   "Old Date": "19/04/2019",
+   "RXCX": "R1C3",
+   "Partant": 14,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX ALETHEIA",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "PRIX JEAN RIAUDR1C32019",
+   "Old Date": "13/04/2019",
+   "RXCX": "R1C3",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX JEAN RIAUD",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "PRIX JEAN CABROLR1C52019",
+   "Old Date": "23/03/2019",
+   "RXCX": "R1C5",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX JEAN CABROL",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "PRIX EMILE ALLIX COURBOYR1C12019",
+   "Old Date": "28/02/2019",
+   "RXCX": "R1C1",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX EMILE ALLIX COURBOY",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "PRIX 20 MINUTES (PRIX HELEN JOHANSSON)R1C62019",
+   "Old Date": "27/01/2019",
+   "RXCX": "R1C6",
+   "Partant": 6,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX 20 MINUTES (PRIX HELEN JOHANSSON)",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "PRIX DE GRANVILLER1C52019",
+   "Old Date": "19/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 15,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE GRANVILLE",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 17
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "PRIX DE BAR-LE-DUCR1C42018",
+   "Old Date": "29/12/2018",
+   "RXCX": "R1C4",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE BAR-LE-DUC",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 17
+},
+ {
+   "FIELD1": 2,
+   "Nom": "CHICA DE JOUDES",
+   "DateRXCX": "PRIX DE SAINT-GEORGES DE DIDONNER1C42018",
+   "Old Date": "01/12/2018",
+   "RXCX": "R1C4",
+   "Partant": 16,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE SAINT-GEORGES DE DIDONNE",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C42020",
+   "Old Date": "12/01/2020",
+   "RXCX": "R1C4",
+   "Partant": 6,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "6",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C42019",
+   "Old Date": "29/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 13,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 17
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "PRIX JEAN DUMOUCHR1C42019",
+   "Old Date": "15/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX JEAN DUMOUCH",
+   "Site": "VIN",
+   "Classement": "9",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C42019",
+   "Old Date": "08/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 3,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "GD PX DE BRETAGNE - LA COURSE DES BLEUSR1C42019",
+   "Old Date": "17/11/2019",
+   "RXCX": "R1C4",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GD PX DE BRETAGNE - LA COURSE DES BLEUS",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "PRIX DES CEVENNESR1C12019",
+   "Old Date": "30/10/2019",
+   "RXCX": "R1C1",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DES CEVENNES",
+   "Site": "VIN",
+   "Classement": "5",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "PRIX RENE BALLIERER1C32019",
+   "Old Date": "23/06/2019",
+   "RXCX": "R1C3",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX RENE BALLIERE",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "PRIX DU GATINAISR1C52019",
+   "Old Date": "11/05/2019",
+   "RXCX": "R1C5",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DU GATINAIS",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "PRIX DU TREPORTR1C32019",
+   "Old Date": "06/04/2019",
+   "RXCX": "R1C3",
+   "Partant": 4,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DU TREPORT",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 16
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "PRIX JEAN CABROLR1C52019",
+   "Old Date": "23/03/2019",
+   "RXCX": "R1C5",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX JEAN CABROL",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "GRAND PRIX DE PARISR1C62019",
+   "Old Date": "24/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 2,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE PARIS",
+   "Site": "VIN",
+   "Classement": "6",
+   "Parcours": "4150GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "GRAND PRIX DE FRANCER1C62019",
+   "Old Date": "10/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE FRANCE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "GRAND PRIX D'AMERIQUER1C52019",
+   "Old Date": "27/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 1,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX D'AMERIQUE",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "PRIX DE VIC SUR CERER1C62019",
+   "Old Date": "06/01/2019",
+   "RXCX": "R1C6",
+   "Partant": 2,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE VIC SUR CERE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "PRIX TENOR DE BAUNER1C52018",
+   "Old Date": "23/12/2018",
+   "RXCX": "R1C5",
+   "Partant": 1,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX TENOR DE BAUNE",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 10
+},
+ {
+   "FIELD1": 3,
+   "Nom": "LOOKING SUPERB",
+   "DateRXCX": "PRIX NARQUOISR1C62018",
+   "Old Date": "08/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 1,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX NARQUOIS",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C42020",
+   "Old Date": "12/01/2020",
+   "RXCX": "R1C4",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "5",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C42019",
+   "Old Date": "08/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 6,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "GD PX DE BRETAGNE - LA COURSE DES BLEUSR1C42019",
+   "Old Date": "17/11/2019",
+   "RXCX": "R1C4",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GD PX DE BRETAGNE - LA COURSE DES BLEUS",
+   "Site": "VIN",
+   "Classement": "8",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "PRIX ISARAR4C32019",
+   "Old Date": "22/10/2019",
+   "RXCX": "R4C3",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX ISARA",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "PRIX RENE BALLIERER1C32019",
+   "Old Date": "23/06/2019",
+   "RXCX": "R1C3",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX RENE BALLIERE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "PRIX CHAMBON PR1C42019",
+   "Old Date": "08/06/2019",
+   "RXCX": "R1C4",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX CHAMBON P",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 9
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "PRIX KERJACQUESR1C62019",
+   "Old Date": "05/05/2019",
+   "RXCX": "R1C6",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX KERJACQUES",
+   "Site": "VIN",
+   "Classement": "9",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 10
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "PRIX JEAN RIAUDR1C32019",
+   "Old Date": "13/04/2019",
+   "RXCX": "R1C3",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX JEAN RIAUD",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "GRAND PRIX D'AMERIQUER1C52019",
+   "Old Date": "27/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX D'AMERIQUE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C52019",
+   "Old Date": "13/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 6,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "8",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "PRIX TENOR DE BAUNER1C52018",
+   "Old Date": "23/12/2018",
+   "RXCX": "R1C5",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX TENOR DE BAUNE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 10
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C62018",
+   "Old Date": "09/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 2,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "GRAND PRIX DE BRETAGNER1C62018",
+   "Old Date": "18/11/2018",
+   "RXCX": "R1C6",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BRETAGNE",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 4,
+   "Nom": "DELIA DU POMMEREUX",
+   "DateRXCX": "PRIX MARCEL LAURENTR1C12018",
+   "Old Date": "08/11/2018",
+   "RXCX": "R1C1",
+   "Partant": 4,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MARCEL LAURENT",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 5,
+   "Nom": "BOLD EAGLE",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C42019",
+   "Old Date": "29/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "5",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 17
+},
+ {
+   "FIELD1": 5,
+   "Nom": "BOLD EAGLE",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C42019",
+   "Old Date": "08/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 18,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 5,
+   "Nom": "BOLD EAGLE",
+   "DateRXCX": "FINALE EUROPEAN TROTTING MASTERS 2019R1C72019",
+   "Old Date": "07/09/2019",
+   "RXCX": "R1C7",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "FINALE EUROPEAN TROTTING MASTERS 2019",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 5,
+   "Nom": "BOLD EAGLE",
+   "DateRXCX": "PRIX RENE BALLIERER1C32019",
+   "Old Date": "23/06/2019",
+   "RXCX": "R1C3",
+   "Partant": 1,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX RENE BALLIERE",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 5,
+   "Nom": "BOLD EAGLE",
+   "DateRXCX": "GRAND PRIX DE FRANCER1C62019",
+   "Old Date": "10/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE FRANCE",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 5,
+   "Nom": "BOLD EAGLE",
+   "DateRXCX": "GRAND PRIX D'AMERIQUER1C52019",
+   "Old Date": "27/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 18,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX D'AMERIQUE",
+   "Site": "VIN",
+   "Classement": "6",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 5,
+   "Nom": "BOLD EAGLE",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C62018",
+   "Old Date": "30/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 5,
+   "Nom": "BOLD EAGLE",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C62018",
+   "Old Date": "09/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 18,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 5,
+   "Nom": "BOLD EAGLE",
+   "DateRXCX": "GRAND PRIX DE BRETAGNER1C62018",
+   "Old Date": "18/11/2018",
+   "RXCX": "R1C6",
+   "Partant": 15,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BRETAGNE",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 6,
+   "Nom": "BILLIE DE MONTFORT",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C42019",
+   "Old Date": "29/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 3,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2100 GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 17
+},
+ {
+   "FIELD1": 6,
+   "Nom": "BILLIE DE MONTFORT",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C42019",
+   "Old Date": "08/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 16,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 6,
+   "Nom": "BILLIE DE MONTFORT",
+   "DateRXCX": "PRIX RENE BALLIERER1C32019",
+   "Old Date": "23/06/2019",
+   "RXCX": "R1C3",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX RENE BALLIERE",
+   "Site": "VIN",
+   "Classement": "6",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 6,
+   "Nom": "BILLIE DE MONTFORT",
+   "DateRXCX": "GRAND PRIX DE FRANCER1C62019",
+   "Old Date": "10/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE FRANCE",
+   "Site": "VIN",
+   "Classement": "5",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 6,
+   "Nom": "BILLIE DE MONTFORT",
+   "DateRXCX": "GRAND PRIX D'AMERIQUER1C52019",
+   "Old Date": "27/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 14,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX D'AMERIQUE",
+   "Site": "VIN",
+   "Classement": "16",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 6,
+   "Nom": "BILLIE DE MONTFORT",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C52019",
+   "Old Date": "13/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 6,
+   "Nom": "BILLIE DE MONTFORT",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C62018",
+   "Old Date": "30/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "10",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 7,
+   "Nom": "FACE TIME BOURBON",
+   "DateRXCX": "CRITERIUM CONTINENTALR1C62019",
+   "Old Date": "22/12/2019",
+   "RXCX": "R1C6",
+   "Partant": 3,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "CRITERIUM CONTINENTAL",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 7,
+   "Nom": "FACE TIME BOURBON",
+   "DateRXCX": "PRIX OCTAVE DOUESNELR1C22019",
+   "Old Date": "07/12/2019",
+   "RXCX": "R1C2",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX OCTAVE DOUESNEL",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 10
+},
+ {
+   "FIELD1": 7,
+   "Nom": "FACE TIME BOURBON",
+   "DateRXCX": "GRAND PRIX DE L'U.E.T. (Gr A)R4C22019",
+   "Old Date": "24/09/2019",
+   "RXCX": "R4C2",
+   "Partant": 4,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE L'U.E.T. (Gr A)",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 7
+},
+ {
+   "FIELD1": 7,
+   "Nom": "FACE TIME BOURBON",
+   "DateRXCX": "PRIX PHAETONR1C62019",
+   "Old Date": "06/04/2019",
+   "RXCX": "R1C6",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX PHAETON",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2175GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 7,
+   "Nom": "FACE TIME BOURBON",
+   "DateRXCX": "PRIX DE SELECTIONR1C72019",
+   "Old Date": "02/03/2019",
+   "RXCX": "R1C7",
+   "Partant": 6,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE SELECTION",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2200GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 7,
+   "Nom": "FACE TIME BOURBON",
+   "DateRXCX": "PX.ASSO SOS AUTISME FRANCE(CH.TIERCELIN)R1C32019",
+   "Old Date": "27/01/2019",
+   "RXCX": "R1C3",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PX.ASSO SOS AUTISME FRANCE(CH.TIERCELIN)",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 16
+},
+ {
+   "FIELD1": 7,
+   "Nom": "FACE TIME BOURBON",
+   "DateRXCX": "PRIX DE TONNAC-VILLENEUVER1C32019",
+   "Old Date": "06/01/2019",
+   "RXCX": "R1C3",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE TONNAC-VILLENEUVE",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2175GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 7,
+   "Nom": "FACE TIME BOURBON",
+   "DateRXCX": "CRITERIUM DES 3 ANSR1C42018",
+   "Old Date": "16/12/2018",
+   "RXCX": "R1C4",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "CRITERIUM DES 3 ANS",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 7,
+   "Nom": "FACE TIME BOURBON",
+   "DateRXCX": "PRIX ABEL BASSIGNYR1C52018",
+   "Old Date": "12/11/2018",
+   "RXCX": "R1C5",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX ABEL BASSIGNY",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2175GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 7,
+   "Nom": "FACE TIME BOURBON",
+   "DateRXCX": "PRIX KURSER5C22018",
+   "Old Date": "02/10/2018",
+   "RXCX": "R5C2",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX KURSE",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2100GPP",
+   "Type de départ": "NA",
+   "Nombre de partants": 8
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C42020",
+   "Old Date": "12/01/2020",
+   "RXCX": "R1C4",
+   "Partant": 4,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX TENOR DE BAUNER1C42019",
+   "Old Date": "22/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX TENOR DE BAUNE",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 16
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX DOYNEL DE SAINT-QUENTINR1C32019",
+   "Old Date": "30/11/2019",
+   "RXCX": "R1C3",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DOYNEL DE SAINT-QUENTIN",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX MARCEL LAURENTR1C12019",
+   "Old Date": "07/11/2019",
+   "RXCX": "R1C1",
+   "Partant": 2,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MARCEL LAURENT",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX DE L'ETOILER1C52019",
+   "Old Date": "14/09/2019",
+   "RXCX": "R1C5",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE L'ETOILE",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2200GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "CRITERIUM DES 5 ANSR1C32019",
+   "Old Date": "31/08/2019",
+   "RXCX": "R1C3",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "CRITERIUM DES 5 ANS",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "3000GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 16
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX JOCKEYR3C82019",
+   "Old Date": "17/08/2019",
+   "RXCX": "R3C8",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX JOCKEY",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX LOUIS JARIELR1C62019",
+   "Old Date": "08/06/2019",
+   "RXCX": "R1C6",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX LOUIS JARIEL",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2175GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 10
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX ALBERT DEMARCQR1C52019",
+   "Old Date": "05/05/2019",
+   "RXCX": "R1C5",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX ALBERT DEMARCQ",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX HENRI LEVESQUER1C42019",
+   "Old Date": "13/04/2019",
+   "RXCX": "R1C4",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX HENRI LEVESQUE",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2175GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 9
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX ROBERT AUVRAYR1C72019",
+   "Old Date": "23/03/2019",
+   "RXCX": "R1C7",
+   "Partant": 6,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX ROBERT AUVRAY",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX DE CAHORSR1C42019",
+   "Old Date": "14/02/2019",
+   "RXCX": "R1C4",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE CAHORS",
+   "Site": "VIN",
+   "Classement": "5",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX DE MAURIACR1C12019",
+   "Old Date": "11/01/2019",
+   "RXCX": "R1C1",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE MAURIAC",
+   "Site": "VIN",
+   "Classement": "8",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX DE CRESSERONSR1C32018",
+   "Old Date": "30/12/2018",
+   "RXCX": "R1C3",
+   "Partant": 2,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE CRESSERONS",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 10
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX DE JUSSYR3C82018",
+   "Old Date": "13/12/2018",
+   "RXCX": "R3C8",
+   "Partant": 1,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE JUSSY",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2175GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 8,
+   "Nom": "EXCELLENT",
+   "DateRXCX": "PRIX MEBSUTAR5C32018",
+   "Old Date": "13/11/2018",
+   "RXCX": "R5C3",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MEBSUTA",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2850PP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 9,
+   "Nom": "BAHIA QUESNOT",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C42019",
+   "Old Date": "29/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 16,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 17
+},
+ {
+   "FIELD1": 9,
+   "Nom": "BAHIA QUESNOT",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C42019",
+   "Old Date": "08/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "6",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 9,
+   "Nom": "BAHIA QUESNOT",
+   "DateRXCX": "GD PX DE BRETAGNE - LA COURSE DES BLEUSR1C42019",
+   "Old Date": "17/11/2019",
+   "RXCX": "R1C4",
+   "Partant": 13,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GD PX DE BRETAGNE - LA COURSE DES BLEUS",
+   "Site": "VIN",
+   "Classement": "12",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 9,
+   "Nom": "BAHIA QUESNOT",
+   "DateRXCX": "PRIX DES CEVENNESR1C12019",
+   "Old Date": "30/10/2019",
+   "RXCX": "R1C1",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DES CEVENNES",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 9,
+   "Nom": "BAHIA QUESNOT",
+   "DateRXCX": "FINALE EUROPEAN TROTTING MASTERS 2019R1C72019",
+   "Old Date": "07/09/2019",
+   "RXCX": "R1C7",
+   "Partant": 6,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "FINALE EUROPEAN TROTTING MASTERS 2019",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 9,
+   "Nom": "BAHIA QUESNOT",
+   "DateRXCX": "GRAND PRIX DE PARISR1C62019",
+   "Old Date": "24/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE PARIS",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "4150GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 9,
+   "Nom": "BAHIA QUESNOT",
+   "DateRXCX": "GRAND PRIX D'AMERIQUER1C52019",
+   "Old Date": "27/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 2,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX D'AMERIQUE",
+   "Site": "VIN",
+   "Classement": "10",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 9,
+   "Nom": "BAHIA QUESNOT",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C52019",
+   "Old Date": "13/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 2,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 9,
+   "Nom": "BAHIA QUESNOT",
+   "DateRXCX": "PRIX JEAN DUMOUCHR1C52018",
+   "Old Date": "16/12/2018",
+   "RXCX": "R1C5",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX JEAN DUMOUCH",
+   "Site": "VIN",
+   "Classement": "9",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 9,
+   "Nom": "BAHIA QUESNOT",
+   "DateRXCX": "PRIX DE BLOISR1C12018",
+   "Old Date": "06/12/2018",
+   "RXCX": "R1C1",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE BLOIS",
+   "Site": "VIN",
+   "Classement": "13",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 16
+},
+ {
+   "FIELD1": 10,
+   "Nom": "VIVID WISE AS",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C42019",
+   "Old Date": "29/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 17
+},
+ {
+   "FIELD1": 10,
+   "Nom": "VIVID WISE AS",
+   "DateRXCX": "PRIX TENOR DE BAUNER1C42019",
+   "Old Date": "22/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX TENOR DE BAUNE",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 16
+},
+ {
+   "FIELD1": 10,
+   "Nom": "VIVID WISE AS",
+   "DateRXCX": "PRIX MARCEL LAURENTR1C12019",
+   "Old Date": "07/11/2019",
+   "RXCX": "R1C1",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MARCEL LAURENT",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 10,
+   "Nom": "VIVID WISE AS",
+   "DateRXCX": "PRIX DU LUXEMBOURGR1C32019",
+   "Old Date": "26/01/2019",
+   "RXCX": "R1C3",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DU LUXEMBOURG",
+   "Site": "VIN",
+   "Classement": "12",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 10,
+   "Nom": "VIVID WISE AS",
+   "DateRXCX": "PRIX DE CROIXR1C52019",
+   "Old Date": "12/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE CROIX",
+   "Site": "VIN",
+   "Classement": "6",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 10,
+   "Nom": "VIVID WISE AS",
+   "DateRXCX": "CRITERIUM CONTINENTALR1C62018",
+   "Old Date": "23/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "CRITERIUM CONTINENTAL",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 10,
+   "Nom": "VIVID WISE AS",
+   "DateRXCX": "PRIX MARCEL LAURENTR1C12018",
+   "Old Date": "08/11/2018",
+   "RXCX": "R1C1",
+   "Partant": 3,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MARCEL LAURENT",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 11,
+   "Nom": "PROPULSION",
+   "DateRXCX": "FINALE EUROPEAN TROTTING MASTERS 2019R1C72019",
+   "Old Date": "07/09/2019",
+   "RXCX": "R1C7",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "FINALE EUROPEAN TROTTING MASTERS 2019",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 11,
+   "Nom": "PROPULSION",
+   "DateRXCX": "GRAND PRIX D'AMERIQUER1C52019",
+   "Old Date": "27/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 17,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX D'AMERIQUE",
+   "Site": "VIN",
+   "Classement": "5",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 12,
+   "Nom": "BELINA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C42020",
+   "Old Date": "12/01/2020",
+   "RXCX": "R1C4",
+   "Partant": 15,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 12,
+   "Nom": "BELINA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C42019",
+   "Old Date": "29/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "12",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 17
+},
+ {
+   "FIELD1": 12,
+   "Nom": "BELINA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C42019",
+   "Old Date": "08/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 17,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "16",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 12,
+   "Nom": "BELINA JOSSELYN",
+   "DateRXCX": "GD PX DE BRETAGNE - LA COURSE DES BLEUSR1C42019",
+   "Old Date": "17/11/2019",
+   "RXCX": "R1C4",
+   "Partant": 18,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GD PX DE BRETAGNE - LA COURSE DES BLEUS",
+   "Site": "VIN",
+   "Classement": "15",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 12,
+   "Nom": "BELINA JOSSELYN",
+   "DateRXCX": "PRIX MEDUSAR3C32019",
+   "Old Date": "05/11/2019",
+   "RXCX": "R3C3",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MEDUSA",
+   "Site": "VIN",
+   "Classement": "6",
+   "Parcours": "3525GPP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 12,
+   "Nom": "BELINA JOSSELYN",
+   "DateRXCX": "PRIX ISARAR4C32019",
+   "Old Date": "22/10/2019",
+   "RXCX": "R4C3",
+   "Partant": 15,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX ISARA",
+   "Site": "VIN",
+   "Classement": "14",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 12,
+   "Nom": "BELINA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE PARISR1C62019",
+   "Old Date": "24/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE PARIS",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "4150GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 12,
+   "Nom": "BELINA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE FRANCER1C62019",
+   "Old Date": "10/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 1,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE FRANCE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 12,
+   "Nom": "BELINA JOSSELYN",
+   "DateRXCX": "GRAND PRIX D'AMERIQUER1C52019",
+   "Old Date": "27/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX D'AMERIQUE",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 12,
+   "Nom": "BELINA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C52019",
+   "Old Date": "13/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 12,
+   "Nom": "BELINA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C62018",
+   "Old Date": "30/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "6",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 12,
+   "Nom": "BELINA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C62018",
+   "Old Date": "09/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 12,
+   "Nom": "BELINA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE BRETAGNER1C62018",
+   "Old Date": "18/11/2018",
+   "RXCX": "R1C6",
+   "Partant": 13,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BRETAGNE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 13,
+   "Nom": "RINGOSTARR TREB",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C42019",
+   "Old Date": "29/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 6,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 17
+},
+ {
+   "FIELD1": 14,
+   "Nom": "UZA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C42020",
+   "Old Date": "12/01/2020",
+   "RXCX": "R1C4",
+   "Partant": 14,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 14,
+   "Nom": "UZA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C42019",
+   "Old Date": "29/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 1,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 17
+},
+ {
+   "FIELD1": 14,
+   "Nom": "UZA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C42019",
+   "Old Date": "08/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 13,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 14,
+   "Nom": "UZA JOSSELYN",
+   "DateRXCX": "PRIX KERJACQUESR1C62019",
+   "Old Date": "05/05/2019",
+   "RXCX": "R1C6",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX KERJACQUES",
+   "Site": "VIN",
+   "Classement": "8",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 10
+},
+ {
+   "FIELD1": 14,
+   "Nom": "UZA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE PARISR1C62019",
+   "Old Date": "24/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE PARIS",
+   "Site": "VIN",
+   "Classement": "8",
+   "Parcours": "4150GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 14,
+   "Nom": "UZA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE FRANCER1C62019",
+   "Old Date": "10/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 2,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE FRANCE",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 14,
+   "Nom": "UZA JOSSELYN",
+   "DateRXCX": "GRAND PRIX D'AMERIQUER1C52019",
+   "Old Date": "27/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX D'AMERIQUE",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 14,
+   "Nom": "UZA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C52019",
+   "Old Date": "13/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "6",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 14,
+   "Nom": "UZA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C62018",
+   "Old Date": "30/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 14,
+   "Nom": "UZA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C62018",
+   "Old Date": "09/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 14,
+   "Nom": "UZA JOSSELYN",
+   "DateRXCX": "GRAND PRIX DE BRETAGNER1C62018",
+   "Old Date": "18/11/2018",
+   "RXCX": "R1C6",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BRETAGNE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 14,
+   "Nom": "UZA JOSSELYN",
+   "DateRXCX": "PRIX DES CEVENNESR1C12018",
+   "Old Date": "31/10/2018",
+   "RXCX": "R1C1",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DES CEVENNES",
+   "Site": "VIN",
+   "Classement": "5",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C42020",
+   "Old Date": "12/01/2020",
+   "RXCX": "R1C4",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "PRIX TENOR DE BAUNER1C42019",
+   "Old Date": "22/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX TENOR DE BAUNE",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 16
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C42019",
+   "Old Date": "08/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 4,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "5",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "GD PX DE BRETAGNE - LA COURSE DES BLEUSR1C42019",
+   "Old Date": "17/11/2019",
+   "RXCX": "R1C4",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GD PX DE BRETAGNE - LA COURSE DES BLEUS",
+   "Site": "VIN",
+   "Classement": "5",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "PRIX MARCEL LAURENTR1C12019",
+   "Old Date": "07/11/2019",
+   "RXCX": "R1C1",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MARCEL LAURENT",
+   "Site": "VIN",
+   "Classement": "9",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "CRITERIUM DES 5 ANSR1C32019",
+   "Old Date": "31/08/2019",
+   "RXCX": "R1C3",
+   "Partant": 15,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "CRITERIUM DES 5 ANS",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "3000GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 16
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "PRIX JOCKEYR3C82019",
+   "Old Date": "17/08/2019",
+   "RXCX": "R3C8",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX JOCKEY",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "PRIX LOUIS JARIELR1C62019",
+   "Old Date": "08/06/2019",
+   "RXCX": "R1C6",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX LOUIS JARIEL",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2175GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 10
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "PRIX ALBERT DEMARCQR1C52019",
+   "Old Date": "05/05/2019",
+   "RXCX": "R1C5",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX ALBERT DEMARCQ",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "PRIX HENRI LEVESQUER1C42019",
+   "Old Date": "13/04/2019",
+   "RXCX": "R1C4",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX HENRI LEVESQUE",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2175GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 9
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "PRIX ROBERT AUVRAYR1C72019",
+   "Old Date": "23/03/2019",
+   "RXCX": "R1C7",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX ROBERT AUVRAY",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "PRIX DE SELECTIONR1C72019",
+   "Old Date": "02/03/2019",
+   "RXCX": "R1C7",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE SELECTION",
+   "Site": "VIN",
+   "Classement": "6",
+   "Parcours": "2200GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "PRIX OVIDE MOULINETR1C22019",
+   "Old Date": "17/02/2019",
+   "RXCX": "R1C2",
+   "Partant": 4,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX OVIDE MOULINET",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 6
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "PRIX DE CROIXR1C52019",
+   "Old Date": "12/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE CROIX",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 15,
+   "Nom": "ENINO DU POMMEREUX",
+   "DateRXCX": "PRIX MARCEL LAURENTR1C12018",
+   "Old Date": "08/11/2018",
+   "RXCX": "R1C1",
+   "Partant": 15,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MARCEL LAURENT",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 16,
+   "Nom": "ERMINIG D'OLIVERIE",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C42020",
+   "Old Date": "12/01/2020",
+   "RXCX": "R1C4",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 16,
+   "Nom": "ERMINIG D'OLIVERIE",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C42019",
+   "Old Date": "29/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "9",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 17
+},
+ {
+   "FIELD1": 16,
+   "Nom": "ERMINIG D'OLIVERIE",
+   "DateRXCX": "PRIX TENOR DE BAUNER1C42019",
+   "Old Date": "22/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 15,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX TENOR DE BAUNE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 16
+},
+ {
+   "FIELD1": 16,
+   "Nom": "ERMINIG D'OLIVERIE",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C42019",
+   "Old Date": "08/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "13",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 16,
+   "Nom": "ERMINIG D'OLIVERIE",
+   "DateRXCX": "CRITERIUM DES 5 ANSR1C32019",
+   "Old Date": "31/08/2019",
+   "RXCX": "R1C3",
+   "Partant": 16,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "CRITERIUM DES 5 ANS",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "3000GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 16
+},
+ {
+   "FIELD1": 16,
+   "Nom": "ERMINIG D'OLIVERIE",
+   "DateRXCX": "PRIX JOCKEYR3C82019",
+   "Old Date": "17/08/2019",
+   "RXCX": "R3C8",
+   "Partant": 14,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX JOCKEY",
+   "Site": "VIN",
+   "Classement": "8",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 16,
+   "Nom": "ERMINIG D'OLIVERIE",
+   "DateRXCX": "PRIX JEAN LE GONIDECR1C72019",
+   "Old Date": "10/02/2019",
+   "RXCX": "R1C7",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX JEAN LE GONIDEC",
+   "Site": "VIN",
+   "Classement": "11",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 16,
+   "Nom": "ERMINIG D'OLIVERIE",
+   "DateRXCX": "PRIX DE CROIXR1C52019",
+   "Old Date": "12/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE CROIX",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 16,
+   "Nom": "ERMINIG D'OLIVERIE",
+   "DateRXCX": "CRITERIUM CONTINENTALR1C62018",
+   "Old Date": "23/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 3,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "CRITERIUM CONTINENTAL",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 16,
+   "Nom": "ERMINIG D'OLIVERIE",
+   "DateRXCX": "PRIX ARISTE HEMARDR1C52018",
+   "Old Date": "08/12/2018",
+   "RXCX": "R1C5",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX ARISTE HEMARD",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 16,
+   "Nom": "ERMINIG D'OLIVERIE",
+   "DateRXCX": "PRIX MARCEL LAURENTR1C12018",
+   "Old Date": "08/11/2018",
+   "RXCX": "R1C1",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MARCEL LAURENT",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 17,
+   "Nom": "VITRUVIO",
+   "DateRXCX": "PRIX TENOR DE BAUNER1C42019",
+   "Old Date": "22/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 16,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX TENOR DE BAUNE",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 16
+},
+ {
+   "FIELD1": 17,
+   "Nom": "VITRUVIO",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C42019",
+   "Old Date": "08/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "9",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 17,
+   "Nom": "VITRUVIO",
+   "DateRXCX": "PRIX MARCEL LAURENTR1C12019",
+   "Old Date": "07/11/2019",
+   "RXCX": "R1C1",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MARCEL LAURENT",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 17,
+   "Nom": "VITRUVIO",
+   "DateRXCX": "CRITERIUM CONTINENTALR1C62018",
+   "Old Date": "23/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "CRITERIUM CONTINENTAL",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 17,
+   "Nom": "VITRUVIO",
+   "DateRXCX": "PRIX MARCEL LAURENTR1C12018",
+   "Old Date": "08/11/2018",
+   "RXCX": "R1C1",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MARCEL LAURENT",
+   "Site": "VIN",
+   "Classement": "5",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 18,
+   "Nom": "MILLIGAN'S SCHOOL",
+   "DateRXCX": "FINALE EUROPEAN TROTTING MASTERS 2019R1C72019",
+   "Old Date": "07/09/2019",
+   "RXCX": "R1C7",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "FINALE EUROPEAN TROTTING MASTERS 2019",
+   "Site": "VIN",
+   "Classement": "6",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C42020",
+   "Old Date": "12/01/2020",
+   "RXCX": "R1C4",
+   "Partant": 13,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "9",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C42019",
+   "Old Date": "29/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 2,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "6",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 17
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C42019",
+   "Old Date": "08/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "8",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "PRIX DES CEVENNESR1C12019",
+   "Old Date": "30/10/2019",
+   "RXCX": "R1C1",
+   "Partant": 13,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DES CEVENNES",
+   "Site": "VIN",
+   "Classement": "13",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "PRIX ISARAR4C32019",
+   "Old Date": "22/10/2019",
+   "RXCX": "R4C3",
+   "Partant": 13,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX ISARA",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "PRIX RENE BALLIERER1C32019",
+   "Old Date": "23/06/2019",
+   "RXCX": "R1C3",
+   "Partant": 3,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX RENE BALLIERE",
+   "Site": "VIN",
+   "Classement": "8",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "PRIX CHAMBON PR1C42019",
+   "Old Date": "08/06/2019",
+   "RXCX": "R1C4",
+   "Partant": 6,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX CHAMBON P",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 9
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "PRIX KERJACQUESR1C62019",
+   "Old Date": "05/05/2019",
+   "RXCX": "R1C6",
+   "Partant": 8,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX KERJACQUES",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 10
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "GRAND PRIX DE PARISR1C62019",
+   "Old Date": "24/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE PARIS",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "4150GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "GRAND PRIX D'AMERIQUER1C52019",
+   "Old Date": "27/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX D'AMERIQUE",
+   "Site": "VIN",
+   "Classement": "12",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C52019",
+   "Old Date": "13/01/2019",
+   "RXCX": "R1C5",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C62018",
+   "Old Date": "30/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 3,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C62018",
+   "Old Date": "09/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 6,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "GRAND PRIX DE BRETAGNER1C62018",
+   "Old Date": "18/11/2018",
+   "RXCX": "R1C6",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BRETAGNE",
+   "Site": "VIN",
+   "Classement": "5",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 19,
+   "Nom": "CARAT WILLIAMS",
+   "DateRXCX": "PRIX DES CEVENNESR1C12018",
+   "Old Date": "31/10/2018",
+   "RXCX": "R1C1",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DES CEVENNES",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 20,
+   "Nom": "DIJON",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C42020",
+   "Old Date": "12/01/2020",
+   "RXCX": "R1C4",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "14",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 20,
+   "Nom": "DIJON",
+   "DateRXCX": "PRIX RENE BALLIERER1C32019",
+   "Old Date": "23/06/2019",
+   "RXCX": "R1C3",
+   "Partant": 2,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX RENE BALLIERE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 20,
+   "Nom": "DIJON",
+   "DateRXCX": "GRAND PRIX DE FRANCER1C62019",
+   "Old Date": "10/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE FRANCE",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 11
+},
+ {
+   "FIELD1": 20,
+   "Nom": "DIJON",
+   "DateRXCX": "PRIX DU LUXEMBOURGR1C32019",
+   "Old Date": "26/01/2019",
+   "RXCX": "R1C3",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DU LUXEMBOURG",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 20,
+   "Nom": "DIJON",
+   "DateRXCX": "GRAND PRIX DE BOURGOGNER1C62018",
+   "Old Date": "30/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BOURGOGNE",
+   "Site": "VIN",
+   "Classement": "12",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 21,
+   "Nom": "TONY GIO",
+   "DateRXCX": "GRAND PRIX DE BELGIQUER1C42020",
+   "Old Date": "12/01/2020",
+   "RXCX": "R1C4",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BELGIQUE",
+   "Site": "VIN",
+   "Classement": "10",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 21,
+   "Nom": "TONY GIO",
+   "DateRXCX": "GRAND PRIX DU BOURBONNAISR1C42019",
+   "Old Date": "08/12/2019",
+   "RXCX": "R1C4",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DU BOURBONNAIS",
+   "Site": "VIN",
+   "Classement": "11",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 21,
+   "Nom": "TONY GIO",
+   "DateRXCX": "GD PX DE BRETAGNE - LA COURSE DES BLEUSR1C42019",
+   "Old Date": "17/11/2019",
+   "RXCX": "R1C4",
+   "Partant": 12,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GD PX DE BRETAGNE - LA COURSE DES BLEUS",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 21,
+   "Nom": "TONY GIO",
+   "DateRXCX": "PRIX DES CEVENNESR1C12019",
+   "Old Date": "30/10/2019",
+   "RXCX": "R1C1",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DES CEVENNES",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 21,
+   "Nom": "TONY GIO",
+   "DateRXCX": "FINALE EUROPEAN TROTTING MASTERS 2019R1C72019",
+   "Old Date": "07/09/2019",
+   "RXCX": "R1C7",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "FINALE EUROPEAN TROTTING MASTERS 2019",
+   "Site": "VIN",
+   "Classement": "5",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 21,
+   "Nom": "TONY GIO",
+   "DateRXCX": "PRIX RENE BALLIERER1C32019",
+   "Old Date": "23/06/2019",
+   "RXCX": "R1C3",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX RENE BALLIERE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 21,
+   "Nom": "TONY GIO",
+   "DateRXCX": "PRIX CHAMBON PR1C42019",
+   "Old Date": "08/06/2019",
+   "RXCX": "R1C4",
+   "Partant": 3,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX CHAMBON P",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 9
+},
+ {
+   "FIELD1": 21,
+   "Nom": "TONY GIO",
+   "DateRXCX": "PRIX JEAN RIAUDR1C32019",
+   "Old Date": "13/04/2019",
+   "RXCX": "R1C3",
+   "Partant": 10,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX JEAN RIAUD",
+   "Site": "VIN",
+   "Classement": "4",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 13
+},
+ {
+   "FIELD1": 21,
+   "Nom": "TONY GIO",
+   "DateRXCX": "GRAND PRIX DE PARISR1C62019",
+   "Old Date": "24/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 6,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE PARIS",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "4150GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 21,
+   "Nom": "TONY GIO",
+   "DateRXCX": "PRIX MISS AFRICA FRANCE (PX.DE LA MARNE)R1C62019",
+   "Old Date": "03/02/2019",
+   "RXCX": "R1C6",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MISS AFRICA FRANCE (PX.DE LA MARNE)",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 10
+},
+ {
+   "FIELD1": 21,
+   "Nom": "TONY GIO",
+   "DateRXCX": "GRAND PRIX DE BRETAGNER1C62018",
+   "Old Date": "18/11/2018",
+   "RXCX": "R1C6",
+   "Partant": 2,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "GRAND PRIX DE BRETAGNE",
+   "Site": "VIN",
+   "Classement": "DA",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 15
+},
+ {
+   "FIELD1": 21,
+   "Nom": "TONY GIO",
+   "DateRXCX": "PRIX DES CEVENNESR1C12018",
+   "Old Date": "31/10/2018",
+   "RXCX": "R1C1",
+   "Partant": 2,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DES CEVENNES",
+   "Site": "VIN",
+   "Classement": "7",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 22,
+   "Nom": "EARL SIMON",
+   "DateRXCX": "LETROT OPEN DES REGIONS - 5 ANSR1C32019",
+   "Old Date": "01/12/2019",
+   "RXCX": "R1C3",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "LETROT OPEN DES REGIONS - 5 ANS",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2850GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 7
+},
+ {
+   "FIELD1": 22,
+   "Nom": "EARL SIMON",
+   "DateRXCX": "CRITERIUM DES 5 ANSR1C32019",
+   "Old Date": "31/08/2019",
+   "RXCX": "R1C3",
+   "Partant": 14,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "CRITERIUM DES 5 ANS",
+   "Site": "VIN",
+   "Classement": "6",
+   "Parcours": "3000GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 16
+},
+ {
+   "FIELD1": 22,
+   "Nom": "EARL SIMON",
+   "DateRXCX": "PRIX JOCKEYR3C82019",
+   "Old Date": "17/08/2019",
+   "RXCX": "R3C8",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX JOCKEY",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 14
+},
+ {
+   "FIELD1": 22,
+   "Nom": "EARL SIMON",
+   "DateRXCX": "PRIX DE SELECTIONR1C72019",
+   "Old Date": "02/03/2019",
+   "RXCX": "R1C7",
+   "Partant": 11,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX DE SELECTION",
+   "Site": "VIN",
+   "Classement": "8",
+   "Parcours": "2200GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 12
+},
+ {
+   "FIELD1": 22,
+   "Nom": "EARL SIMON",
+   "DateRXCX": "PRIX OVIDE MOULINETR1C22019",
+   "Old Date": "17/02/2019",
+   "RXCX": "R1C2",
+   "Partant": 5,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX OVIDE MOULINET",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 6
+},
+ {
+   "FIELD1": 22,
+   "Nom": "EARL SIMON",
+   "DateRXCX": "CRITERIUM CONTINENTALR1C62018",
+   "Old Date": "23/12/2018",
+   "RXCX": "R1C6",
+   "Partant": 9,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "CRITERIUM CONTINENTAL",
+   "Site": "VIN",
+   "Classement": "3",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 18
+},
+ {
+   "FIELD1": 22,
+   "Nom": "EARL SIMON",
+   "DateRXCX": "PRIX OCTAVE DOUESNELR1C22018",
+   "Old Date": "09/12/2018",
+   "RXCX": "R1C2",
+   "Partant": 7,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX OCTAVE DOUESNEL",
+   "Site": "VIN",
+   "Classement": "1",
+   "Parcours": "2700GP",
+   "Type de départ": "NA",
+   "Nombre de partants": 7
+},
+ {
+   "FIELD1": 22,
+   "Nom": "EARL SIMON",
+   "DateRXCX": "PRIX MARCEL LAURENTR1C12018",
+   "Old Date": "08/11/2018",
+   "RXCX": "R1C1",
+   "Partant": 6,
+   "A": {
+      "M": "Attelé"
+   },
+   "Course trackées": "PRIX MARCEL LAURENT",
+   "Site": "VIN",
+   "Classement": "2",
+   "Parcours": "2100GP",
+   "Type de départ": "Autostart",
+   "Nombre de partants": 15
+}
+]
